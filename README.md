@@ -18,4 +18,4 @@
 #
 <div align="center">
 	<img src="https://tylereshelman.com/screenIMG/Other_Ideas.png" alt="Waves" width=100%/>
-	<p style="text-align:center;"><b>Jelly Glow</b></p>
+	<p style="text-align:center;"><b>Other Ideas</b></p>
